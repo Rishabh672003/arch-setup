@@ -1,4 +1,7 @@
-yay -S aalib
+#command to use
+#pacman -S $(echo $(cat packages.txt | cut -d' ' -f1))
+
+aalib
 abseil-cpp
 accountsservice
 acl
