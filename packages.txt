@@ -26,7 +26,6 @@ anki
 aom
 appimagelauncher
 appstream-glib
-arc-gtk-theme-eos
 arc-x-icons-theme
 archlinux-keyring
 argon2
@@ -131,17 +130,7 @@ efitools
 efivar
 ell
 enchant
-endeavouros-keyring
-endeavouros-mirrorlist
-endeavouros-theming
 eog
-eos-apps-info
-eos-bash-shared
-eos-hooks
-eos-log-tool
-eos-rankmirrors
-eos-translations
-eos-update-notifier
 ethtool
 evince
 evolution-data-server
@@ -251,8 +240,6 @@ grep
 grilo
 groff
 grub
-grub-tools
-grub2-theme-endeavouros
 gsettings-desktop-schemas
 gsfonts
 gsm
@@ -1000,7 +987,6 @@ readline
 rebuild-detector
 redland
 reflector
-reflector-simple
 reiserfsprogs
 rest
 rhythmbox
@@ -1136,7 +1122,6 @@ webapp-manager
 webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
-welcome
 wget
 which
 whois
@@ -1200,7 +1185,6 @@ xterm
 xvidcore
 xxhash
 xz
-yad-eos
 yajl
 yay
 yt-dlp
