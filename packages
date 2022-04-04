@@ -109,6 +109,7 @@ deluge-gtk
 desktop-file-utils
 device-mapper
 dhclient
+dhcp
 dialog
 diffutils
 ding-libs
