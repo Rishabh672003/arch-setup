@@ -1054,7 +1054,7 @@ stoken
 stremio
 stylepak-git
 sudo
-supertux
+
 sushi
 svt-av1
 svt-hevc
