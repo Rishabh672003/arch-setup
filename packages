@@ -1116,7 +1116,6 @@ vulkan-headers
 vulkan-icd-loader
 wavpack
 waydroid
-waydroid-image
 wayland
 webapp-manager
 webkit2gtk
