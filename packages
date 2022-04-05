@@ -220,7 +220,6 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extension-pop-shell-git
-gnome-shell-extension-material-shell-git
 gnome-shell-extensions
 gnome-terminal-transparency
 gnome-themes-extra
