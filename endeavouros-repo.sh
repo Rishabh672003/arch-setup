@@ -1,3 +1,4 @@
+sudo true;
 sudo echo "[endeavouros]
 SigLevel = PackageRequired
 Include = /etc/pacman.d/endeavouros-mirrorlist" >> /etc/pacman.conf;
