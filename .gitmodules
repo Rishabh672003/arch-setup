@@ -1,3 +1,6 @@
 [submodule "arch-installer"]
 	path = arch-installer
 	url = https://github.com/Rishabh672003/Arch-Installer.git
+[submodule "arch-installer-ctt"]
+	path = arch-installer-ctt
+	url = https://github.com/ChrisTitusTech/ArchTitus.git
