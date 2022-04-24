@@ -86,11 +86,8 @@ checkbashisms
 chromaprint
 chrome-gnome-shell
 cifs-utils
-cinnamon-desktop
-cjs
 clucene
 clutter
-clutter-gst
 clutter-gtk
 cmatrix
 cogl
@@ -260,6 +257,7 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
+gperftools
 gpgme
 gpm
 gptfdisk
@@ -287,6 +285,7 @@ gst-plugins-base-libs
 gst-plugins-good
 gst-plugins-ugly
 gstreamer
+gthumb
 gtk-update-icon-cache
 gtk-vnc
 gtk3
@@ -561,6 +560,7 @@ libisofs
 libixion
 libjcat
 libjpeg-turbo
+libjxl
 libkate
 libksba
 liblangtag
@@ -586,7 +586,6 @@ libmpcdec
 libmpeg2
 libmspub
 libmtp
-libmusicbrainz5
 libmwaw
 libnautilus-extension
 libndp
@@ -806,8 +805,6 @@ ncdu
 ncurses
 ndctl
 ndisc6
-nemo
-nemo-preview
 neofetch
 neon
 neovim
@@ -912,7 +909,6 @@ pixman
 pkcs11-helper
 pkgconf
 pkgfile
-plata-theme
 polkit
 polkit-qt5
 poppler
@@ -962,6 +958,7 @@ python-gbinder
 python-geoip
 python-gnupg
 python-gobject
+python-greenlet
 python-html5lib
 python-hyperlink
 python-idna
@@ -999,6 +996,7 @@ python-pyaudio
 python-pyclip
 python-pycparser
 python-pygments
+python-pynvim
 python-pyopenssl
 python-pyparsing
 python-pyqt5
@@ -1251,6 +1249,7 @@ xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
+xdotool
 xf86-input-libinput
 xf86-video-amdgpu
 xf86-video-ati
@@ -1277,7 +1276,6 @@ xorg-xrdb
 xorg-xset
 xorg-xwayland
 xorgproto
-xreader
 xterm
 xvidcore
 xxhash
