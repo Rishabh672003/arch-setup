@@ -8,7 +8,6 @@ adobe-source-code-pro-fonts
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
-adw-gtk3-git
 adwaita-icon-theme
 alsa-card-profiles
 alsa-firmware
@@ -27,7 +26,7 @@ anki
 aom
 appimagelauncher
 appstream-glib
-arc-gtk-theme-eos
+
 arc-x-icons-theme
 archlinux-keyring
 argon2
@@ -138,17 +137,6 @@ efitools
 efivar
 ell
 enchant
-endeavouros-keyring
-endeavouros-mirrorlist
-endeavouros-theming
-eog
-eos-apps-info
-eos-bash-shared
-eos-hooks
-eos-log-tool
-eos-rankmirrors
-eos-translations
-eos-update-notifier
 ethtool
 evince
 evolution-data-server
@@ -267,7 +255,7 @@ grep
 grilo
 groff
 grub
-grub-tools
+
 gsettings-desktop-schemas
 gsfonts
 gsm
@@ -808,7 +796,6 @@ ndisc6
 neofetch
 neon
 neovim
-nerd-fonts-complete
 netctl
 nettle
 networkmanager
@@ -860,7 +847,7 @@ pam
 pambase
 pango
 pangomm
-paper-icon-theme
+
 papirus-icon-theme
 parallel
 parted
@@ -1211,7 +1198,7 @@ vulkan-headers
 vulkan-icd-loader
 wavpack
 waydroid
-waydroid-image
+
 wayland
 webapp-manager
 webkit2gtk
@@ -1280,7 +1267,6 @@ xterm
 xvidcore
 xxhash
 xz
-yad-eos
 yajl
 yay
 youtube-dl
