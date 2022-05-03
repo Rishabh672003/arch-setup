@@ -18,17 +18,16 @@ alsa-ucm-conf
 alsa-utils
 amd-ucode
 amdvlk
-anbox-modules-dkms
 android-tools
 android-udev
 ani-cli
-anki
+anki-bin
 aom
 appimagelauncher
 appstream-glib
-
 arc-x-icons-theme
 archlinux-keyring
+archlinux-wallpaper
 argon2
 asp
 at-spi2-atk
@@ -55,6 +54,7 @@ bison
 blas
 bluez
 bluez-libs
+bluez-tools
 bluez-utils
 bolt
 boost-libs
@@ -81,10 +81,10 @@ cdparanoia
 cdrtools
 chaotic-keyring
 chaotic-mirrorlist
-checkbashisms
 chromaprint
 chrome-gnome-shell
 cifs-utils
+clinfo
 clucene
 clutter
 clutter-gtk
@@ -102,6 +102,7 @@ cronie
 cryptsetup
 cups-pk-helper
 curl
+dash
 dav1d
 db
 dbus
@@ -137,6 +138,7 @@ efitools
 efivar
 ell
 enchant
+eog
 ethtool
 evince
 evolution-data-server
@@ -145,11 +147,12 @@ exempi
 exfatprogs
 exiv2
 expat
-extension-manager
+extension-manager-git
 f2fs-tools
 faac
 faad2
 fakeroot
+fastfetch
 fd
 ffmpeg
 ffmpeg4.4
@@ -164,7 +167,7 @@ fish
 flac
 flashrom
 flex
-fluent-reader-bin
+fluent-reader
 fluidsynth
 folks
 fontconfig
@@ -174,6 +177,7 @@ fribidi
 fsarchiver
 fuse-common
 fuse2
+fuse2fs
 fuse3
 fwupd
 fwupd-efi
@@ -189,6 +193,7 @@ gdbm
 gdk-pixbuf2
 gdm
 geary
+gedit
 geoclue
 geocode-glib
 geoip
@@ -211,6 +216,7 @@ glu
 gmime3
 gmp
 gnome-autoar
+gnome-bluetooth
 gnome-bluetooth-3.0
 gnome-books
 gnome-boxes
@@ -238,7 +244,6 @@ gnome-text-editor-git
 gnome-themes-extra
 gnome-tweaks
 gnome-usage
-gnome-weather
 gnu-netcat
 gnupg
 gnutls
@@ -249,13 +254,14 @@ gperftools
 gpgme
 gpm
 gptfdisk
+gpu-viewer
 graphene
 graphite
 grep
 grilo
 groff
 grub
-
+grub-hook
 gsettings-desktop-schemas
 gsfonts
 gsm
@@ -274,8 +280,11 @@ gst-plugins-good
 gst-plugins-ugly
 gstreamer
 gthumb
+gtk-engine-murrine
+gtk-engines
 gtk-update-icon-cache
 gtk-vnc
+gtk2
 gtk3
 gtk4
 gtkd
@@ -464,6 +473,7 @@ libcacard
 libcanberra
 libcap
 libcap-ng
+libcbor
 libcddb
 libcdio
 libcdio-paranoia
@@ -472,6 +482,7 @@ libcloudproviders
 libcolord
 libcue
 libcups
+libcurl-compat
 libcurl-gnutls
 libdaemon
 libdatrie
@@ -737,9 +748,12 @@ linux-atm
 linux-firmware
 linux-firmware-whence
 linux-headers
+linux-zen
+linux-zen-headers
 llvm-libs
 lm_sensors
 lmdb
+lnav
 logrotate
 lpsolve
 lsb-release
@@ -760,7 +774,7 @@ mailcap
 make
 man-db
 man-pages
-matcha-gtk-theme
+matcha-gtk-theme-git
 md4c
 mdadm
 media-player-info
@@ -796,6 +810,9 @@ ndisc6
 neofetch
 neon
 neovim
+nerd-fonts-complete
+nerd-fonts-noto-sans-mono
+nerd-fonts-noto-sans-regular-complete
 netctl
 nettle
 networkmanager
@@ -818,6 +835,7 @@ nss-mdns
 ntfs-3g
 ntp
 numactl
+ocl-icd
 oniguruma
 onlyoffice-bin
 openal
@@ -847,7 +865,7 @@ pam
 pambase
 pango
 pangomm
-
+paper-icon-theme
 papirus-icon-theme
 parallel
 parted
@@ -882,7 +900,7 @@ perl-uri
 perl-www-robotrules
 perl-xml-parser
 perl-xml-writer
-pfetch
+pfetch-git
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -909,6 +927,7 @@ protobuf
 protobuf-c
 protonvpn-gui
 psmisc
+pulseaudio-alsa
 pv
 python
 python-appdirs
@@ -918,6 +937,7 @@ python-automat
 python-bcrypt
 python-beaker
 python-beautifulsoup4
+python-brotli
 python-cachecontrol
 python-cairo
 python-certifi
@@ -957,6 +977,7 @@ python-jeepney
 python-jinja
 python-jsonschema
 python-keyring
+python-lxml
 python-mako
 python-markdown
 python-markupsafe
@@ -982,6 +1003,7 @@ python-pyasn1-modules
 python-pyaudio
 python-pyclip
 python-pycparser
+python-pycryptodomex
 python-pygments
 python-pynvim
 python-pyopenssl
@@ -989,6 +1011,9 @@ python-pyparsing
 python-pyqt5
 python-pyqt5-sip
 python-pyqt5-webengine
+python-pyqt6
+python-pyqt6-sip
+python-pyqt6-webengine
 python-pyrsistent
 python-pysocks
 python-pytube
@@ -1024,6 +1049,7 @@ python-urllib3
 python-userpath
 python-waitress
 python-webencodings
+python-websockets
 python-werkzeug
 python-wheel
 python-ytmusicapi
@@ -1050,9 +1076,12 @@ qt6-5compat
 qt6-base
 qt6-declarative
 qt6-imageformats
+qt6-positioning
 qt6-svg
 qt6-translations
 qt6-wayland
+qt6-webchannel
+qt6-webengine
 raptor
 rasqal
 rate-mirrors
@@ -1062,7 +1091,6 @@ readline
 rebuild-detector
 redland
 reflector
-reflector-simple
 reiserfsprogs
 rest
 rhythmbox
@@ -1109,9 +1137,9 @@ spice
 spice-gtk
 spicetify-cli
 spirv-tools
-spotify
-spotify-adblock-git
+spotify-snapstore
 sqlite
+squashfs-tools
 squashfuse
 sratom
 srt
@@ -1154,10 +1182,12 @@ tracker3-miners
 tree-sitter
 tslib
 ttf-bitstream-vera
+ttf-caladea
 ttf-carlito
 ttf-dejavu
 ttf-jetbrains-mono
 ttf-liberation
+ttf-meslo-nerd-font-powerlevel10k
 ttf-opensans
 ttf-roboto
 twolame
@@ -1179,6 +1209,7 @@ v4l-utils
 vamp-plugin-sdk
 vbam-wx
 vde2
+vdpauinfo
 ventoy-bin
 vid.stab
 vim
@@ -1196,9 +1227,10 @@ vte-common
 vte3
 vulkan-headers
 vulkan-icd-loader
+vulkan-tools
 wavpack
 waydroid
-
+waydroid-image
 wayland
 webapp-manager
 webkit2gtk
@@ -1246,6 +1278,7 @@ xl2tpd
 xmlsec
 xmlstarlet
 xorg-fonts-encodings
+xorg-mkfontscale
 xorg-server
 xorg-server-common
 xorg-setxkbmap
