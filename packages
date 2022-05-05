@@ -35,6 +35,7 @@ at-spi2-core
 atk
 atkmm
 attr
+audacity
 audit
 auto-cpufreq
 autoconf
@@ -74,6 +75,7 @@ ca-certificates-mozilla
 ca-certificates-utils
 cairo
 cairomm
+cairomm-1.16
 cantarell-fonts
 capitaine-cursors
 cblas
@@ -84,7 +86,6 @@ chaotic-mirrorlist
 chromaprint
 chrome-gnome-shell
 cifs-utils
-clinfo
 clucene
 clutter
 clutter-gtk
@@ -210,6 +211,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glibmm-2.68
 glow
 glslang
 glu
@@ -220,16 +222,14 @@ gnome-bluetooth
 gnome-bluetooth-3.0
 gnome-books
 gnome-boxes
-gnome-calculator
 gnome-calendar
 gnome-color-manager
-gnome-control-center
+gnome-control-center-noflatpak
 gnome-desktop
 gnome-desktop-4
 gnome-desktop-common
 gnome-disk-utility
 gnome-epub-thumbnailer
-gnome-firmware
 gnome-keyring
 gnome-logs
 gnome-nettool
@@ -243,7 +243,6 @@ gnome-shell-extensions
 gnome-text-editor-git
 gnome-themes-extra
 gnome-tweaks
-gnome-usage
 gnu-netcat
 gnupg
 gnutls
@@ -254,7 +253,6 @@ gperftools
 gpgme
 gpm
 gptfdisk
-gpu-viewer
 graphene
 graphite
 grep
@@ -288,6 +286,7 @@ gtk2
 gtk3
 gtk4
 gtkd
+gtkmm-4.0
 gtkmm3
 gtksourceview3
 gtksourceview4
@@ -342,15 +341,16 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
-jdk11-openjdk
+jdk-openjdk
+jdk17-openjdk
 jemalloc
 jfsutils
 joplin-appimage
 jq
 jre-openjdk
 jre-openjdk-headless
-jre11-openjdk
-jre11-openjdk-headless
+jre17-openjdk
+jre17-openjdk-headless
 js78
 js91
 json-c
@@ -570,6 +570,7 @@ liblqr
 liblrdf
 libltc
 libluv
+libmad
 libmanette
 libmaxminddb
 libmbim
@@ -648,6 +649,7 @@ libsecret
 libshout
 libsidplay
 libsigc++
+libsigc++-3.0
 libslirp
 libsm
 libsmbios
@@ -823,7 +825,7 @@ nftables
 nilfs-utils
 nmap
 node-gyp
-nodejs-lts-gallium
+nodejs
 nodejs-nopt
 noto-fonts
 noto-fonts-emoji
@@ -865,6 +867,7 @@ pam
 pambase
 pango
 pangomm
+pangomm-2.48
 paper-icon-theme
 papirus-icon-theme
 parallel
@@ -920,6 +923,7 @@ poppler
 poppler-glib
 popt
 portaudio
+portsmf
 ppp
 pptpclient
 procps-ng
@@ -938,6 +942,7 @@ python-bcrypt
 python-beaker
 python-beautifulsoup4
 python-brotli
+python-build
 python-cachecontrol
 python-cairo
 python-certifi
@@ -971,6 +976,7 @@ python-hyperlink
 python-idna
 python-importlib-metadata
 python-incremental
+python-installer
 python-itsdangerous
 python-jarowinkler
 python-jeepney
@@ -1103,6 +1109,7 @@ rtmpdump
 rubberband
 run-parts
 runc
+rust
 s-nail
 sassc
 sbc
@@ -1150,6 +1157,7 @@ stoken
 stremio
 stylepak-git
 sudo
+suil
 supertux
 sushi
 svt-av1
@@ -1174,7 +1182,6 @@ thin-provisioning-tools
 thunderbird
 tilix
 tldr
-totem
 totem-pl-parser
 tpm2-tss
 tracker3
@@ -1209,7 +1216,6 @@ v4l-utils
 vamp-plugin-sdk
 vbam-wx
 vde2
-vdpauinfo
 ventoy-bin
 vid.stab
 vim
@@ -1227,7 +1233,6 @@ vte-common
 vte3
 vulkan-headers
 vulkan-icd-loader
-vulkan-tools
 wavpack
 waydroid
 waydroid-image
