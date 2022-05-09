@@ -9,6 +9,7 @@ adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 adwaita-icon-theme
+alacritty
 alsa-card-profiles
 alsa-firmware
 alsa-lib
@@ -401,6 +402,8 @@ ldb
 ldns
 less
 lib32-acl
+lib32-alsa-lib
+lib32-amdvlk
 lib32-attr
 lib32-brotli
 lib32-bzip2
@@ -561,6 +564,7 @@ libjcat
 libjpeg-turbo
 libjxl
 libkate
+libkeybinder3
 libksba
 liblangtag
 libldac
@@ -760,6 +764,7 @@ logrotate
 lpsolve
 lsb-release
 lsd
+lsof
 lsscsi
 lua
 lua53
@@ -799,7 +804,7 @@ msgpack-c
 mtdev
 mtools
 mujs
-mutter
+mutter-performance
 nano
 nano-syntax-highlighting
 nautilus
@@ -881,6 +886,7 @@ pcre2
 pcsclite
 pcurses
 perl
+perl-cgi
 perl-clone
 perl-encode-locale
 perl-error
@@ -942,7 +948,6 @@ python-bcrypt
 python-beaker
 python-beautifulsoup4
 python-brotli
-python-build
 python-cachecontrol
 python-cairo
 python-certifi
@@ -976,7 +981,6 @@ python-hyperlink
 python-idna
 python-importlib-metadata
 python-incremental
-python-installer
 python-itsdangerous
 python-jarowinkler
 python-jeepney
@@ -1100,9 +1104,11 @@ reflector
 reiserfsprogs
 rest
 rhythmbox
+ripgrep
 rnnoise
 rp-pppoe
 rpcbind
+rrdtool
 rsync
 rtkit
 rtmpdump
@@ -1182,10 +1188,12 @@ thin-provisioning-tools
 thunderbird
 tilix
 tldr
+tor-browser
 totem-pl-parser
 tpm2-tss
 tracker3
 tracker3-miners
+tree
 tree-sitter
 tslib
 ttf-bitstream-vera
@@ -1315,6 +1323,7 @@ zeromq
 zimg
 zip
 zlib
+zram-generator
 zsh
 zstd
 zvbi
