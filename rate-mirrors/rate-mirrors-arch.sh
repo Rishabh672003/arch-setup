@@ -1,3 +1,5 @@
+rm -rf ./rate-mirrors-bin;   
+
 git clone https://aur.archlinux.org/rate-mirrors-bin && cd rate-mirrors-bin && makepkg -si;
 
 export TMPFILE="$(mktemp)"; \
