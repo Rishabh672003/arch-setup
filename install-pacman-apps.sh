@@ -1,3 +1,3 @@
 #!/bin/sh
-yay -S --needed $(echo $(cat packages-pacman | cut -d' ' -f1))
+pacman -S --needed $(echo $(cat packages-pacman | cut -d' ' -f1))
 
