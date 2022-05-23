@@ -223,7 +223,6 @@ gnome-books
 gnome-boxes
 gnome-calendar
 gnome-color-manager
-gnome-console
 gnome-control-center-noflatpak
 gnome-desktop
 gnome-desktop-4
@@ -240,7 +239,6 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-gnome-terminal-transparency
 gnome-text-editor-git
 gnome-themes-extra
 gnome-tweaks
@@ -449,7 +447,7 @@ lib32-xz
 lib32-zlib
 lib32-zstd
 libabw
-libadwaita-without-adwaita-git
+libadwaita
 libaio
 libappimage
 libappindicator-gtk3
